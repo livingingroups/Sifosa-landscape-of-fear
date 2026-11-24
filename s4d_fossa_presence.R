@@ -1,7 +1,7 @@
 #'----------------------------------------------------------------------------------------------------
 #' Script: s4d_fossa_presence.R
 #'
-#' Quantify dayily and nightly fossa presence
+#' Quantify daily and nightly fosa presence
 #'
 #' @author Dario Walser (primary code author)
 #' @author Maevatiana Ratsimbazafindranahaka (code reviewer)
