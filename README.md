@@ -123,4 +123,4 @@ The workflow produces datasets and analyses addressing three main questions:
 
 1. **Sifaka reactions to fosa encounters:** How do sifakas respond immediately to predator–prey encounters?
 2. **Sifaka responses to variation in fosa activity:** How does sifaka behavior vary in relation to daily and nightly changes in fosa activity?
-3. **fosa activity patterns:** What are the daily and nightly activity patterns and home ranges of fosa?
+3. **fosa activity patterns:** What are the activity patterns of fosa?
