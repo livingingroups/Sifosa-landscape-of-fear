@@ -1,7 +1,7 @@
 #'----------------------------------------------------------------------------------------------------
 #' Script: s1_extract_sifosa_encounters.R
 #' 
-#' Identify encounters between Sifakas and Fossas using GPS tracking data from s1a_make_ari_matrix.R
+#' Identify encounters between Sifaka and Fosa using GPS tracking data from s0_make_ari_matrix.R
 #'
 #' @author Maevatiana N. Ratsimbazafindranahaka (primary code author)
 #' @author Meredith C. Lutz (code reviewer)
