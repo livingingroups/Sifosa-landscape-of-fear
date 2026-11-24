@@ -1,9 +1,9 @@
 #'----------------------------------------------------------------------------------------------------
 #' Script: s2_extract_immediate_responses.R
 #'
-#' Processes behavioral responses of sifakas based on sifosa encounter data from s2_extract_sifosa_encounters.R
-#' and using GPS data from s1a_make_ari_matrix.R
-#' It computes behavioral metrics (Pitch and VeDBA) by sifosa distance intervals as fossa approaches/retires,
+#' Processes behavioral responses of sifaka based on sifosa encounter data from s1_extract_sifosa_encounters.R
+#' and using GPS data from s0_make_ari_matrix.R
+#' It computes behavioral metrics (Pitch and VeDBA) by sifosa distance intervals as fosa approaches/retires,
 #  and generates control data from non-encounter days
 #'
 #' @author Maevatiana N. Ratsimbazafindranahaka (primary code author)
