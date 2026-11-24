@@ -3,12 +3,12 @@
 #'
 #' Processes behavioral responses of sifaka based on sifosa encounter data from s1_extract_sifosa_encounters.R
 #' and using GPS data from s0_make_ari_matrix.R
-#' It computes behavioral metrics (Pitch and VeDBA) by sifosa distance intervals as fosa approaches/retires,
+#' It computes behavioral metrics (Pitch, VeDBA, and movement) by sifosa distance intervals as fosa approaches/retires,
 #  and generates control data from non-encounter days
 #'
 #' @author Maevatiana N. Ratsimbazafindranahaka (primary code author)
 #' @author Meredith Lutz (code reviewer)
-#' @export `sifosa_[year]_[response metric]_resp.RData` dataframe containing average response per distance interval to fossa per encounter
+#' @export `sifosa_[year]_[response metric]_resp.RData` dataframe containing average response per distance interval to fosa per encounter
 #'----------------------------------------------------------------------------------------------------------
 
 rm(list = ls())
