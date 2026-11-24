@@ -1,8 +1,8 @@
 #'----------------------------------------------------------------------------------------------------
 #' Script: s3_test_encounter_responses.R
 #'
-#' This script test if there is any significant behavioral changes of sifakas
-#' to fossa encounters, using response data from s3_extract_immediate_responses.R and a permutation approach
+#' This script tests if there are any significant behavioral changes in sifaka
+#' to fosa encounters, using response data from s2_extract_immediate_responses.R and a permutation approach
 #'
 #' @author Maevatiana N. Ratsimbazafindranahaka (primary code author)
 #' @author Damien Caillaud (code reviewer)
